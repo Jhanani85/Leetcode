@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Jhanani85/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Jhanani85/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Jhanani85/Leetcode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jhanani85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Jhanani85/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Jhanani85/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
