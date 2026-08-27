@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jhanani85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jhanani85/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jhanani85/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Jhanani85/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jhanani85/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Jhanani85/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jhanani85/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jhanani85/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Jhanani85/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -60,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jhanani85/Leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jhanani85/Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jhanani85/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jhanani85/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
