@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jhanani85/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Jhanani85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Jhanani85/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Jhanani85/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Jhanani85/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Jhanani85/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
