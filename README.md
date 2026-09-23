@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jhanani85/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jhanani85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jhanani85/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jhanani85/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jhanani85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jhanani85/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jhanani85/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Jhanani85/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Jhanani85/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jhanani85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Jhanani85/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Jhanani85/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Jhanani85/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jhanani85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
