@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Jhanani85/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Jhanani85/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jhanani85/Leetcode/tree/master/0342-power-of-four) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jhanani85/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Simulation
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jhanani85/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jhanani85/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
